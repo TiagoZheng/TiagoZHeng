@@ -51,4 +51,4 @@ Google Play Protect (Cognizant) | 2024
 
 📧 tiago.zheng23@gmail.com  
 📎 [LinkedIn](https://www.linkedin.com/in/tiago-zheng-a281851a5)  
-📂 [CV]([https://your-cv-link-if-public.com](https://github.com/TiagoZheng/TiagoZheng/blob/main/TiagoZheng_CV_2025.pdf))
+📂 [CV](https://github.com/TiagoZheng/TiagoZheng/blob/main/TiagoZheng_CV_2025.pdf)
