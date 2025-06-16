@@ -10,32 +10,7 @@ I’m a passionate **Software Developer** focused on building real-world Android
 Java, Kotlin, Python, HTML, CSS, JavaScript
 
 **Frameworks & Tools:**  
-Jetpack Compose, MVVM, ReactJS, Git/GitHub, SCRUM, Frida, BurpSuite
-
----
-
-## 💼 Projects
-
-### 📱 [SpendMate](https://github.com/TiagoZheng/SpendMate)
-> Android Expense Tracker App  
-Kotlin | Jetpack Compose | MVVM | State Management  
-📌 Built a budget tracker from scratch. Modular architecture, reactive UI state, and seamless screen transitions.
-
----
-
-### 🕹 [Multiplayer Snake Game](https://github.com/TiagoZheng/FullStackCourse)  
-> Distributed Java Game with Networking  
-Java | Client-Server | Multithreading | Concurrency  
-📌 Engineered multiplayer gameplay, handled thread safety and deadlocks, and built real-time client-server communication.
-
----
-
-### 🎮 [Chicken Cross](https://github.com/TiagoZheng/FullStackCourse)
-> Crossy Road-style Procedural Game  
-Java | OOP | Game Dev  
-📌 Designed object movement, procedural maps, and collision logic.
-
----
+Jetpack Compose, MVVM, Git/GitHub, SCRUM, Frida, BurpSuite, jQuery, BootStrap
 
 ## 🧠 Experience Highlight
 
